@@ -1,0 +1,31 @@
+.main{
+    background-color: azure;
+    padding: 10px;
+}
+.welcome-section{
+    text-align: center;
+    background-color: darkorange;
+    padding: 10px;
+}
+.menu-container{
+    background-color: white;
+    margin: 8px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.menu-appetizers img{
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+}
+.contact-us{
+    text-align: center;
+    background-color: lightcoral;
+    padding: 8px;
+}
+h4 {
+    color: #8b0000;
+  }
+  p {
+    font-size: 16px;
+  }
